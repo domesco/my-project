@@ -1,0 +1,137 @@
+*{
+padding:0%;
+margin: 0%;
+
+}
+body{
+        background-image: url(./picture/vot2.jpg);
+        background-repeat: no-repeat;
+        background-size: 100%;;
+    
+}
+ /* index.html */
+
+.div1{
+    font-size: 70px;
+   
+    height: 50%;
+    width: 100%;
+    text-align: center;
+}
+.div2{
+    padding-top: 40px ;
+    text-align: center;
+}
+
+.div2 h3{
+    font-size: 50px;
+}
+ button{
+    margin-top: 60px;
+    width: 100px;
+    height: 50px;
+    text-decoration: none;
+    border: 2px;
+    background-color:rgb(150, 150, 197);
+    font-size: 20PX;
+    color:black;
+    border-radius: 30px;
+    align-content: center;
+    margin-left: 40%;
+
+ } 
+/* login.html */
+ form{
+   padding-top: 30px;
+    margin-left: 30%;
+    
+ }
+
+header{
+    text-align: center;
+    padding-top: 5px;
+}
+
+li{
+    font-size: 30px;
+}
+
+ul{
+    padding-top: 50px;
+}
+
+.div3{
+    margin-left: 30%;
+}
+
+.div3 h3{
+    font-size: 30px;
+    line-height: 3;
+}
+
+/* cadidate.html */
+
+.president{
+    background-color: rgb(173, 173, 209);
+    
+    margin-top: 50px;
+    margin-left: 500px;
+    border: 70px;
+    height: 500px;
+    width: 800px;
+    align-content: center;
+    font-size: larger;
+    
+
+}
+table{
+    border: 1px;
+    margin-left: 30px;
+    
+}
+.t1{
+    padding-left: 70px;
+}
+input [type=radio]{
+    border: 6px;
+    width: 50px;
+    height: 30px;
+    transform: scale(10);
+    vertical-align: middle;
+
+}
+
+
+th{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+/* logout */
+
+
+#log{
+    font-size: 60px;
+    text-align: center;
+    color: rgb(36, 66, 66);
+    padding-top: 20%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
